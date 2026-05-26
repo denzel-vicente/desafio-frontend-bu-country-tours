@@ -1,0 +1,293 @@
+[
+  {
+    "id": "tour-001",
+    "slug": "passeio-barco-por-do-sol-rio",
+    "title": "Tour de Barco Privativo ao Pôr do Sol com Open Bar",
+    "category": "Aventura e Natureza",
+    "rating": 4.9,
+    "reviewsCount": 1240,
+    "location": "Rio de Janeiro, Brasil",
+    "duration": "3 horas",
+    "languages": [
+      "Português",
+      "Inglês",
+      "Espanhol"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito com até 24 horas de antecedência.",
+    "highlights": [
+      "Vista panorâmica do Pão de Açúcar e Cristo Redentor ao entardecer.",
+      "Open bar de caipirinhas, cerveja, refrigerante e água.",
+      "Parada para mergulho em águas calmas.",
+      "Capitão experiente e guia bilíngue a bordo."
+    ],
+    "prices": {
+      "adult": 180.0,
+      "child": 90.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-06-15",
+      "2026-06-16",
+      "2026-07-12"
+    ],
+    "maxCapacityPerSlot": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Navegue pelas águas calmas da Baía de Guanabara e assista a um dos pores do sol mais bonitos do mundo. Este tour oferece uma perspectiva única dos principais pontos turísticos do Rio de Janeiro."
+  },
+  {
+    "id": "tour-002",
+    "slug": "aula-culinaria-bahiana-salvador",
+    "title": "Masterclass de Culinária Baiana com Jantar e Drinks",
+    "category": "Gastronomia",
+    "rating": 4.8,
+    "reviewsCount": 612,
+    "location": "Salvador, Bahia",
+    "duration": "4 horas",
+    "languages": [
+      "Português",
+      "Inglês"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito com até 48 horas de antecedência.",
+    "highlights": [
+      "Aprenda a fazer uma moqueca tradicional passo a passo.",
+      "Workshop de caipirinhas artesanais com frutas tropicais.",
+      "Jantar completo incluído (entrada, prato principal e sobremesa)."
+    ],
+    "prices": {
+      "adult": 220.0,
+      "child": 110.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-06-24",
+      "2026-06-31"
+    ],
+    "maxCapacityPerSlot": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Entre no universo dos sabores e temperos da Bahia. Sob o comando de um chef local renomado, você vai colocar a mão na massa no coração do Pelourinho."
+  },
+  {
+    "id": "tour-003",
+    "slug": "trilha-historica-machu-picchu",
+    "title": "Trilha Guiada Privativa por Machu Picchu com Ingressos",
+    "category": "Cultural e Histórico",
+    "rating": 5.0,
+    "reviewsCount": 3405,
+    "location": "Cusco, Peru",
+    "duration": "7 horas",
+    "languages": [
+      "Espanhol",
+      "Inglês",
+      "Português"
+    ],
+    "freeCancellation": false,
+    "cancellationPolicy": "Este tour não permite reembolso devido às regras estritas dos ingressos do parque.",
+    "highlights": [
+      "Guia oficial historiador exclusivo para o seu grupo.",
+      "Ingresso do Circuito 2 incluído (a foto clássica do cartão postal).",
+      "Passagem de ônibus de ida e volta de Aguas Calientes inclusa."
+    ],
+    "prices": {
+      "adult": 450.0,
+      "child": 320.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-06-22",
+      "2026-06-23"
+    ],
+    "maxCapacityPerSlot": 6,
+    "images": [
+      "https://images.unsplash.com/photo-1526392060635-9d6019884377?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506477331477-33d5d8b3dc85?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1587595421360-44c125df977e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Explore os mistérios da Cidade Sagrada dos Incas com um guia especialista. Evite as multidões com rotas estratégicas."
+  },
+  {
+    "id": "tour-004",
+    "slug": "voo-balao-capadocia",
+    "title": "Voo de Balão de Ar Quente ao Amanhecer na Capadócia",
+    "category": "Aventura e Natureza",
+    "rating": 4.9,
+    "reviewsCount": 5120,
+    "location": "Goreme, Capadócia, Turquia",
+    "duration": "2.5 horas",
+    "languages": [
+      "Inglês",
+      "Espanhol",
+      "Turco"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito se o voo for cancelado devido às condições climáticas.",
+    "highlights": [
+      "Voo clássico de 1 hora pelas chaminés de fada.",
+      "Brinde de champanhe e certificado de voo personalizado no pouso.",
+      "Transfer de ida e volta do hotel incluído."
+    ],
+    "prices": {
+      "adult": 850.0,
+      "child": 850.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-07-01",
+      "2026-07-02"
+    ],
+    "maxCapacityPerSlot": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Flutue suavemente sobre as paisagens lunares da Capadócia enquanto o sol nasce. Uma das experiências mais emblemáticas e fotografadas do mundo."
+  },
+  {
+    "id": "tour-005",
+    "slug": "mergulho-barreira-de-corais",
+    "title": "Mergulho de Cilindro na Grande Barreira de Corais",
+    "category": "Aventura e Natureza",
+    "rating": 4.7,
+    "reviewsCount": 890,
+    "location": "Cairns, Austrália",
+    "duration": "8 horas",
+    "languages": [
+      "Inglês",
+      "Japonês"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito com até 72 horas de antecedência.",
+    "highlights": [
+      "Dois pontos de mergulho exclusivos na barreira externa.",
+      "Equipamento completo de mergulho de alta qualidade incluso.",
+      "Almoço buffet tropical a bordo de um catamarã moderno."
+    ],
+    "prices": {
+      "adult": 620.0,
+      "child": 410.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [],
+    "maxCapacityPerSlot": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Descubra a rica biodiversidade marinha do maior sistema de recifes de coral do mundo. Ideal tanto para mergulhadores certificados quanto para iniciantes."
+  },
+  {
+    "id": "tour-006",
+    "slug": "excursao-gastronomica-toquio",
+    "title": "Tour Gastronómico Noturno por Shinbashi e Yurakucho",
+    "category": "Gastronomia",
+    "rating": 4.9,
+    "reviewsCount": 1105,
+    "location": "Tóquio, Japão",
+    "duration": "3.5 horas",
+    "languages": [
+      "Inglês",
+      "Japonês"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito com até 24 horas de antecedência.",
+    "highlights": [
+      "Visite 4 becos gastronómicos escondidos (Izakayas).",
+      "Degustação de Yakitori, Sushi fresco, Gyoza e Ramen local.",
+      "Duas bebidas tradicionais incluídas (Sake ou Cerveja artesanal)."
+    ],
+    "prices": {
+      "adult": 340.0,
+      "child": 190.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-08-11",
+      "2026-08-12",
+      "2026-08-13"
+    ],
+    "maxCapacityPerSlot": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Explore o lado autêntico e noturno de Tóquio onde os habitantes locais relaxam após o trabalho. Coma como um verdadeiro Edokko nos labirintos sob os trilhos do comboio."
+  },
+  {
+    "id": "tour-007",
+    "slug": "aurora-boreal-tromso",
+    "title": "Caçada de Carrinha à Aurora Boreal com Fotógrafo Profissional",
+    "category": "Aventura e Natureza",
+    "rating": 4.6,
+    "reviewsCount": 2150,
+    "location": "Tromsø, Noruega",
+    "duration": "6 horas",
+    "languages": [
+      "Inglês"
+    ],
+    "freeCancellation": true,
+    "cancellationPolicy": "Cancelamento gratuito com reembolso total se o operador cancelar devido a condições meteorológicas extremas.",
+    "highlights": [
+      "Fotógrafo profissional que tira retratos seus com a Aurora.",
+      "Fogueira no acampamento ártico com chocolate quente e marshmallows.",
+      "Fatos térmicos de inverno e tripés para câmaras incluídos."
+    ],
+    "prices": {
+      "adult": 580.0,
+      "child": 420.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-06-01",
+      "2026-07-01",
+      "2026-08-01"
+    ],
+    "maxCapacityPerSlot": 16,
+    "images": [
+      "https://images.unsplash.com/photo-1483168527879-c66136b56105?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Viaje para longe da poluição luminosa de Tromsø em direção às melhores coordenadas para testemunhar a espetacular dança das luzes do norte no céu ártico."
+  },
+  {
+    "id": "tour-008",
+    "slug": "museu-louvre-guiado-privado",
+    "title": "Tour Sem Filas no Museu do Louvre com Guia Historiador",
+    "category": "Cultural e Histórico",
+    "rating": 4.9,
+    "reviewsCount": 1820,
+    "location": "Paris, França",
+    "duration": "3 horas",
+    "languages": [
+      "Francês",
+      "Inglês",
+      "Espanhol",
+      "Português"
+    ],
+    "freeCancellation": false,
+    "cancellationPolicy": "Bilhetes nominativos não reembolsáveis nem editáveis após a emissão.",
+    "highlights": [
+      "Acesso prioritário cortando as longas filas de espera públicas.",
+      "Roteiro otimizado focado nas obras-primas: Mona Lisa, Vénus de Milo e muito mais.",
+      "Auriculares individuais para ouvir perfeitamente as explicações do guia."
+    ],
+    "prices": {
+      "adult": 390.0,
+      "child": 150.0,
+      "currency": "BRL"
+    },
+    "unavailableDates": [
+      "2026-05-26",
+      "2026-06-02"
+    ],
+    "maxCapacityPerSlot": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1533174072545-e7b39f37c35a?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1601887389937-0b02c26b6c3c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "description": "Maximize o seu tempo no maior museu de arte do mundo. Evite perder-se nas galerias infinitas e compreenda o contexto histórico e os segredos das maiores obras da humanidade."
+  }
+]
